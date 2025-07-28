@@ -17,7 +17,7 @@ The goal was to:
 | Stack | Details |
 |-------|---------|
 | **SQL** | MySQL – Data preprocessing, cleaning, transformations |
-| **Python** | Jupyter Notebook – Exploratory Data Analysis (EDA), Seaborn & Pandas |
+| **Python** | Jupyter Notebook – Exploratory Data Analysis (EDA), Pandas, NumPy, Matplotlib, Seaborn |
 | **Power BI** | Data modeling, DAX Measures, Dashboard Design |
 | **Power Query (M)** | Data transformation before modeling in Power BI |
 | **DAX (Data Analysis Expressions)** | Custom KPIs, Measures, and calculated columns |
